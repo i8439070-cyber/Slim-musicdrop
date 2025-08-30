@@ -13,7 +13,7 @@
 
 1. Клонуйте репозиторій:
    ```
-   git clone https://github.com/ВАШ_ЛОГІН/ВАШ_РЕПОЗИТОРІЙ.git
+   [git clone https://github.com/ВАШ_ЛОГІН/ВАШ_РЕПОЗИТОРІЙ.git](https://github.com/i8439070-cyber/Slim-musicdrop.git)
    cd ВАШ_РЕПОЗИТОРІЙ
    ```
 
